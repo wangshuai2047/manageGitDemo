@@ -15,6 +15,7 @@
 		03CD4DEA1D7425F900AC9BD8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 03CD4DE81D7425F900AC9BD8 /* LaunchScreen.storyboard */; };
 		03CD4DF51D7425F900AC9BD8 /* manageGitDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 03CD4DF41D7425F900AC9BD8 /* manageGitDemoTests.m */; };
 		03CD4E001D7425F900AC9BD8 /* manageGitDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 03CD4DFF1D7425F900AC9BD8 /* manageGitDemoUITests.m */; };
+		03CD4E0F1D74304100AC9BD8 /* WSTwoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 03CD4E0E1D74304100AC9BD8 /* WSTwoViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		03CD4DFB1D7425F900AC9BD8 /* manageGitDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = manageGitDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		03CD4DFF1D7425F900AC9BD8 /* manageGitDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = manageGitDemoUITests.m; sourceTree = "<group>"; };
 		03CD4E011D7425F900AC9BD8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		03CD4E0D1D74304100AC9BD8 /* WSTwoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WSTwoViewController.h; sourceTree = "<group>"; };
+		03CD4E0E1D74304100AC9BD8 /* WSTwoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WSTwoViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				03CD4DDE1D7425F900AC9BD8 /* AppDelegate.m */,
 				03CD4DE01D7425F900AC9BD8 /* ViewController.h */,
 				03CD4DE11D7425F900AC9BD8 /* ViewController.m */,
+				03CD4E0D1D74304100AC9BD8 /* WSTwoViewController.h */,
+				03CD4E0E1D74304100AC9BD8 /* WSTwoViewController.m */,
 				03CD4DE31D7425F900AC9BD8 /* Main.storyboard */,
 				03CD4DE61D7425F900AC9BD8 /* Assets.xcassets */,
 				03CD4DE81D7425F900AC9BD8 /* LaunchScreen.storyboard */,
@@ -273,6 +278,7 @@
 				03CD4DE21D7425F900AC9BD8 /* ViewController.m in Sources */,
 				03CD4DDF1D7425F900AC9BD8 /* AppDelegate.m in Sources */,
 				03CD4DDC1D7425F900AC9BD8 /* main.m in Sources */,
+				03CD4E0F1D74304100AC9BD8 /* WSTwoViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
